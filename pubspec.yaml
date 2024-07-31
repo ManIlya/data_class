@@ -1,0 +1,15 @@
+name: data_class
+description: A data class macros
+version: 0.0.1
+
+
+environment:
+  sdk: ">=3.5.0-0.0-dev <4.0.0"
+
+dependencies:
+  collection: ^1.19.0
+  macros: ^0.1.0-main.5
+  macro_util: ^0.1.0-11.dev
+
+dev_dependencies:
+  very_good_analysis: ^6.0.0
