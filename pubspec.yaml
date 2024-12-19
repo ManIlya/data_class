@@ -12,4 +12,4 @@ dependencies:
   macro_util: ^0.1.0-11.dev
 
 dev_dependencies:
-  very_good_analysis: ^6.0.0
+  very_good_analysis: ">=6.0.0 <8.0.0"
